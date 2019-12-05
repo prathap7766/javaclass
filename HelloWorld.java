@@ -6,7 +6,7 @@ public class HelloWorld {
     System.out.println("Hello, Ramesh");
     System.out.println("Hello, Pratap");
     System.out.println("Hello, Jana");
-    System.out.println("Hello, first line");
-    system.out.println("Hello, second line");
+    System.out.println("Hello, firstline");
+    system.out.println("Hello, secondline");
   }
 }
